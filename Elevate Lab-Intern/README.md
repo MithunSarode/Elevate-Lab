@@ -1,10 +1,10 @@
 
 
-\# 📘 Calculator Program (Java) — README
+Calculator Program (Java) — README
 
 
 
-\## 📝 Overview
+<h1>Overview</h1>
 
 
 
@@ -12,13 +12,13 @@ This Java program is a simple \*\*console-based calculator\*\* that performs bas
 
 
 
-\* Addition (+)
+Addition (+)
 
-\* Subtraction (–)
+Subtraction (–)
 
-\* Multiplication (\*)
+Multiplication (\*)
 
-\* Division (/)
+Division (/)
 
 
 
@@ -30,7 +30,7 @@ The program uses a \*\*loop\*\* to allow the user to perform multiple calculatio
 
 
 
-\## ⚙️ Features
+<h1>Features</h1>
 
 
 
@@ -52,11 +52,11 @@ The program uses a \*\*loop\*\* to allow the user to perform multiple calculatio
 
 
 
-\## 📂 Code Explanation
+<h1>Code Explanation</h1>
 
 
 
-\### \*\*1. Importing Scanner\*\*
+1. Importing Scanner
 
 
 
@@ -76,7 +76,7 @@ This allows the program to read user input from the console.
 
 
 
-\### \*\*2. Variable Initialization\*\*
+2. Variable Initialization
 
 
 
@@ -96,7 +96,7 @@ int res = 0;
 
 
 
-\### \*\*3. Infinite Loop for Multiple Operations\*\*
+3. Infinite Loop for Multiple Operations
 
 
 
@@ -120,7 +120,7 @@ This loop continues until the user enters `'x'` or `'X'`.
 
 
 
-\### \*\*4. Reading the Operator\*\*
+4. Reading the Operator
 
 
 
@@ -146,7 +146,7 @@ char OP = sc.next().trim().charAt(0);
 
 
 
-\### \*\*5. Checking Valid Operators\*\*
+5. Checking Valid Operators
 
 
 
@@ -166,7 +166,7 @@ If the operator is valid, the program asks for the two numbers.
 
 
 
-\### \*\*6. Reading Two Numbers\*\*
+6. Reading Two Numbers
 
 
 
@@ -188,7 +188,7 @@ These inputs are used for the selected operation.
 
 
 
-\### \*\*7. Performing the Operation\*\*
+7. Performing the Operation
 
 
 
@@ -232,7 +232,7 @@ if (OP == '/') {
 
 
 
-\### \*\*8. Exiting the Program\*\*
+8. Exiting the Program
 
 
 
@@ -254,7 +254,7 @@ This stops the loop and ends the calculator.
 
 
 
-\### \*\*9. Handling Invalid Operators\*\*
+9. Handling Invalid Operators
 
 
 
@@ -274,7 +274,7 @@ else {
 
 
 
-\### \*\*10. Printing the Result\*\*
+10. Printing the Result
 
 
 
@@ -294,11 +294,11 @@ The result is printed after each valid calculation.
 
 
 
-\## ▶️ Sample Input/Output
+<h3>Sample Input/Output</h3>
 
 
 
-\### \*\*Example\*\*
+Example
 
 
 
@@ -334,7 +334,7 @@ Enter the OP : x
 
 
 
-\## 📦 How to Run This Program
+<h3>How to Run This Program</h3>
 
 
 
@@ -346,21 +346,21 @@ Enter the OP : x
 
 
 
-&nbsp;  ```java
+ ```java
 
-&nbsp;  javac Calculator.java
+  javac Calculator.java
 
-&nbsp;  ```
+  ```
 
 4\. Run the program:
 
 
 
-&nbsp;  ```java
+ ```java
 
-&nbsp;  java Calculator
+  java Calculator
 
-&nbsp;  ```
+  ```
 
 
 
@@ -368,7 +368,7 @@ Enter the OP : x
 
 
 
-\## ✔️ Conclusion
+<h3>Conclusion</h3>
 
 
 
@@ -383,6 +383,7 @@ This program demonstrates:
 \* Repeated execution using loops
 
 \* Safe mathematical operations
+
 
 
 
