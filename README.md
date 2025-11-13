@@ -1,9 +1,4 @@
-# Elevate-Lab
-Here is a clean, professional **README.md** for your calculator program.
-You can copy-paste it directly into a file named **README.md**.
-
----
-
+#Task1
 # 📘 Calculator Program (Java) — README
 
 ## 📝 Overview
@@ -143,8 +138,9 @@ else {
 
 ### **10. Printing the Result**
 
-java
+```java
 System.out.println(res);
+```
 
 The result is printed after each valid calculation.
 
@@ -152,7 +148,9 @@ The result is printed after each valid calculation.
 
 ## ▶️ Sample Input/Output
 
+### **Example**
 
+```
 Enter the OP : +
 Enter the 1st Number: 10
 Enter the 2nd Number: 5
@@ -164,6 +162,7 @@ Enter the 2nd Number: 3
 12
 
 Enter the OP : x
+```
 
 ---
 
