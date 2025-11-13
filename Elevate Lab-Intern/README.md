@@ -302,7 +302,7 @@ The result is printed after each valid calculation.
 
 
 
-```
+```java
 
 Enter the OP : +
 
@@ -383,6 +383,7 @@ This program demonstrates:
 \* Repeated execution using loops
 
 \* Safe mathematical operations
+
 
 
 
