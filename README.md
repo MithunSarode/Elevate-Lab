@@ -193,9 +193,3 @@ This program demonstrates:
 * Safe mathematical operations
 
 ---
-
-If you want, I can also make:
-✅ A **flowchart**
-✅ A **UML diagram**
-✅ A more advanced **README with images**
-Just tell me!
