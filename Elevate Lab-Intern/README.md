@@ -346,7 +346,7 @@ Enter the OP : x
 
 
 
-&nbsp;  ```
+&nbsp;  ```java
 
 &nbsp;  javac Calculator.java
 
@@ -356,7 +356,7 @@ Enter the OP : x
 
 
 
-&nbsp;  ```
+&nbsp;  ```java
 
 &nbsp;  java Calculator
 
@@ -383,6 +383,7 @@ This program demonstrates:
 \* Repeated execution using loops
 
 \* Safe mathematical operations
+
 
 
 
